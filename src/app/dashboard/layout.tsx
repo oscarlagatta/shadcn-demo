@@ -7,6 +7,7 @@ import {ReactNode} from "react";
 const links = [
     {name: "accordion", href: "accordion"},
     {name: "alert", href: "alert"},
+    {name: "button", href: "button"},
 ];
 
 export default function DashboardLayout({
